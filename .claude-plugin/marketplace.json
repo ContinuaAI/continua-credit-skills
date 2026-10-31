@@ -1,7 +1,8 @@
 {
   "name": "continua-credit-skills",
   "owner": {
-    "name": "Continua AI"
+    "name": "Continua AI",
+    "url": "https://askcontinua.com"
   },
   "metadata": {
     "description": "Private credit due diligence and underwriting skills for Claude, built on Continua Project Rooms."

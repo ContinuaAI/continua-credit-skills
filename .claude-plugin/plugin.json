@@ -4,7 +4,8 @@
   "description": "Continua Credit Skills for private credit teams: investigate full borrower packages and data rooms with up to 1B tokens of working context and turn the evidence into cited credit memos, covenant compliance and headroom tests, due diligence findings with a diligence request list, credit agreement and LME term reviews, and EBITDA add-back analysis. Every finding traces to its source. Save reviewed conclusions to your team's Enterprise Second Brain in Continua Project Rooms so the next deal builds on them. Connects to the Continua Project Room MCP server (https://app.askcontinua.com/mcp?subset=mini) and requires a Continua account; access and usage follow your account permissions and plan.",
   "icon": "./logo.png",
   "author": {
-    "name": "Continua AI"
+    "name": "Continua AI",
+    "url": "https://askcontinua.com"
   },
   "homepage": "https://askcontinua.com",
   "repository": "https://github.com/ContinuaAI/continua-credit-skills",

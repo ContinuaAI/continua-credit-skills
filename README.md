@@ -1,7 +1,5 @@
 # Continua Credit Skills
 
-<img src="logo.png" alt="Continua AI" width="96" />
-
 Due diligence and credit underwriting skills for **private credit teams**, built on Continua Project Rooms.
 
 Continua gives Claude up to **1B tokens of working context** to investigate an entire borrower package or data room: financial statements, contracts, invoices, and supporting records. These skills turn that evidence into credit memos, covenant tests, diligence findings, loan document reviews, and EBITDA analysis, with every material figure traceable to its source.
@@ -64,7 +62,6 @@ continua-credit-skills/
 │   ├── credit-agreement-terms/SKILL.md
 │   └── ebitda-addbacks/SKILL.md
 ├── .gitignore
-├── logo.png
 ├── LICENSE
 └── README.md
 ```
